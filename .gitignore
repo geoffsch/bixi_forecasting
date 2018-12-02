@@ -2,5 +2,5 @@
 /notebooks/.ipynb_checkpoints
 
 # Only uploaded data
-/data/1_raw
-/data/2_prepared
+/data/1_raw/
+/data/2_prepared/
